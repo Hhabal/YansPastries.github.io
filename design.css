@@ -1,0 +1,15 @@
+.jumbotron{
+  background-image:url("https://us.123rf.com/450wm/benzoix/benzoix1902/benzoix190201099/116610824-abstract-blur-of-pastel-beautiful-peach-pink-color-sky-warm-tone-background-for-design-as-banner-sli.jpg?ver=6")
+}
+body{
+    font-family:cursive;
+}
+.cake {
+  width:500px;
+  height:400px
+}
+.menu{
+  width:1100px;
+  height:1100px;
+
+}
